@@ -1,4 +1,4 @@
-# Prodigy-Infotech-CS-Task-1
+# Encryption
 
 The Caesar Cipher is a type of substitution cipher where each letter in the plaintext (the original message) is shifted by a certain number of positions down the alphabet. For example, with a shift of 3:
 
